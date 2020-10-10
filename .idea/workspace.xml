@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="tv_720p" />
+        <device id="tv_1080p" />
+        <device id="Nexus 10" />
+        <device id="Nexus 9" />
+        <device id="Nexus 7 2013" />
+        <device id="Nexus 7" />
+        <device id="Nexus 6" />
+        <target>android-29</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eeb36a62-c45b-45f9-9ca7-c82ad0809f6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/diyview/beziercurve/MyBezierView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/SerialPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/SerialPortFinder$Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/SerialPortFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/DysonTestActivty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/EleFresModuleActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/EleFresModuleActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/EleFresModuleActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/EleFresModuleActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/EleFresModuleActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/EleFresModuleActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/LoopbackActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/LoopbackActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/Sending01010101Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/Sending01010101Activity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/SerialPortActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/SerialPortActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/SerialPortPreferences.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/SerialPortPreferences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/SerialRecvProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/android_serialport_api/sample/SerialRecvProcess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_jni_libs/debug/out/armeabi-v7a/libserial_port.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_jni_libs/debug/out/armeabi/libserial_port.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_jni_libs/debug/out/x86/libserial_port.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/armeabi-v7a/libserial_port.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/armeabi-v7a/libserial_port.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/armeabi/libserial_port.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86/libserial_port.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_native_libs/debug/out/lib/x86/libserial_port.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/SerialPort.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/SerialPortFinder$Driver.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/SerialPortFinder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Application.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Application.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/ConsoleActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/ConsoleActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/ConsoleActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/ConsoleActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/ConsoleActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/ConsoleActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty$6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/DysonTestActivty.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/EleFresModuleActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/EleFresModuleActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/EleFresModuleActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/EleFresModuleActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/EleFresModuleActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/EleFresModuleActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity$SendingThread$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity$SendingThread$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity$SendingThread.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity$SendingThread.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/LoopbackActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$6.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$7.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu$7.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/MainMenu.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Sending01010101Activity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Sending01010101Activity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Sending01010101Activity$SendingThread.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Sending01010101Activity$SendingThread.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Sending01010101Activity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/Sending01010101Activity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortActivity$ReadThread.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortActivity$ReadThread.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortPreferences$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortPreferences$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortPreferences$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortPreferences$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortPreferences.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialPortPreferences.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialRecvProcess.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/android_serialport_api/sample/SerialRecvProcess.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_icon.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_icon.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_console.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_console.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_dysontest.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_dysontest.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_elecfresmodule.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_elecfresmodule.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_loopback.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_loopback.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_sending01010101.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_sending01010101.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml_serial_port_preferences.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml_serial_port_preferences.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/armeabi-v7a/libserial_port.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/armeabi-v7a/libserial_port.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/armeabi/libserial_port.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86/libserial_port.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stripped_native_libs/debug/out/lib/x86/libserial_port.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/JniLibs/armeabi-v7a/libserial_port.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/JniLibs/armeabi-v7a/libserial_port.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/JniLibs/armeabi/libserial_port.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/JniLibs/armeabi/libserial_port.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/JniLibs/x86/libserial_port.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/JniLibs/x86/libserial_port.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/SerialPort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/SerialPortFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/DysonTestActivty.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/DysonTestActivty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/EleFresModuleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/EleFresModuleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/SerialPortActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/SerialPortActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/SerialPortPreferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/SerialPortPreferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/SerialRecvProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android_serialport_api/sample/SerialRecvProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dysontest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dysontest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/elecfresmodule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/elecfresmodule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="7IIIK8ZVTK" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Lai Daixi" />
+        <option value="laidaixi@163.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="ProjectId" id="1YZn0vxvgkHW2UR8xaWx9OKYsMO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DEBUGGABLE_DEVICE" value="rockchip-aio_3399proc-7IIIK8ZVTK" />
+    <property name="DEBUGGABLE_PROCESS" value="android_serialport_api.sample" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_Edited_API_22" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-24T03:10:13.662Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Pixel_XL_API_22&#10;LNGNWLALOZ" />
+    <property name="android.sdk.path" value="E:/AndroidSDK/Sdk" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Android-SerialPort-API/serialport" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle projects" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project1 [projects]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="projects" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.project1 [projects]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeb36a62-c45b-45f9-9ca7-c82ad0809f6c" name="Default Changelist" comment="" />
+      <created>1583158764694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583158764694</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Ready to Control ElcFres module">
+      <created>1583828725689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583828725689</updated>
+    </task>
+    <task id="LOCAL-00002" summary="自动设置Fso Fla Vso Vla 的seekBar最大值">
+      <created>1584000861496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584000861496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Ready to Control ElcFres module" />
+    <MESSAGE value="自动设置Fso Fla Vso Vla 的seekBar最大值" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动设置Fso Fla Vso Vla 的seekBar最大值" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602299073789">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="730" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1602299073789" />
+    <state x="846" y="220" key="AndroidProcessChooserDialog" timestamp="1602299936852">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="846" y="220" key="AndroidProcessChooserDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1602299936852" />
+    <state x="747" y="281" key="FileChooserDialogImpl" timestamp="1602298874293">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="747" y="281" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1602298874293" />
+    <state width="1805" height="770" key="GridCell.Tab.0.bottom" timestamp="1602301123568">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="770" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1602301123568" />
+    <state width="1805" height="770" key="GridCell.Tab.0.center" timestamp="1602301123567">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="770" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1602301123567" />
+    <state width="1805" height="770" key="GridCell.Tab.0.left" timestamp="1602301123567">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="770" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1602301123567" />
+    <state width="1805" height="770" key="GridCell.Tab.0.right" timestamp="1602301123568">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="770" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1602301123568" />
+    <state width="1805" height="354" key="GridCell.Tab.1.bottom" timestamp="1602300186142">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1602300186142" />
+    <state width="1805" height="354" key="GridCell.Tab.1.center" timestamp="1602300186141">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1602300186141" />
+    <state width="1805" height="354" key="GridCell.Tab.1.left" timestamp="1602300186141">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1602300186141" />
+    <state width="1805" height="354" key="GridCell.Tab.1.right" timestamp="1602300186142">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1805" height="354" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1602300186142" />
+    <state x="605" y="210" width="776" height="685" key="find.popup" timestamp="1600071141860">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1599643230187" />
+    <state x="605" y="210" width="776" height="685" key="find.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1600071141860" />
+  </component>
+</project>
